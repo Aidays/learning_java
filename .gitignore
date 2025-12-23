@@ -1,2 +1,14 @@
+# Editor temp files
+*.swp
+*.swn
+*.swm
+
+# Java class files
 *.class
-*.swo
+
+# Logs
+*.log
+
+# IDE config
+.vscode/
+.idea/
